@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:07.303385+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4101-uk-grime-bass-hooks-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "277c408b60d1346ffdc9734244eaa1c37734e220743c244550422e94f533b1f1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4101-uk-grime-bass-hooks-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "751c87e8f5ad23db38645888802bf10c17717115aeb3a9128ac116c6e9cab14d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4101-uk-grime-bass-hooks-opening/drums.mid",
+      "bytes": 2641,
+      "sha256": "2a977671128f82fd4c433107ebf4a5515938c4262a7ad413039ee90df2396e82",
+      "errors": []
+    },
+    {
+      "path": "midi/z4101-uk-grime-bass-hooks-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "64ae091cf1ce26871bfa63f4e28726215278461a0df14a34d12697014df9133b",
+      "errors": []
+    },
+    {
+      "path": "midi/z4101-uk-grime-bass-hooks-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "fa5de6c5885cc3836ed2d557e15f3cdafbfd27a2bd47bb38d2645feefca98d24",
+      "errors": []
+    },
+    {
+      "path": "midi/z4101-uk-grime-bass-hooks-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "177b16d06ab1c39e496356667937613a23a5e08b3aa7d18d65b4c6a089e41984",
+      "errors": []
+    },
+    {
+      "path": "midi/z4101-uk-grime-bass-hooks-opening/z4101-uk-grime-bass-hooks-opening-combined.mid",
+      "bytes": 5673,
+      "sha256": "4fd1abb69630de430a6ecc0ca10d004e9ddadb8ddcc14c13a0efddb961dd0e11",
+      "errors": []
+    },
+    {
+      "path": "midi/z4102-uk-grime-bass-hooks-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "f0c8f1a57aa5baf257f18a174e757a4fad567a750ff71958aa183ac315e98c98",
+      "errors": []
+    },
+    {
+      "path": "midi/z4102-uk-grime-bass-hooks-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "86adaf7ea6edd6e679514186ef5b1e15a2adaa70452b695dc3b768b82177cfc1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4102-uk-grime-bass-hooks-variation/drums.mid",
+      "bytes": 2641,
+      "sha256": "2a977671128f82fd4c433107ebf4a5515938c4262a7ad413039ee90df2396e82",
+      "errors": []
+    },
+    {
+      "path": "midi/z4102-uk-grime-bass-hooks-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "55eb5ab3b1d2707fb24b95710b5af6f1e0f63d42d66c4866d1fc90686e478fd2",
+      "errors": []
+    },
+    {
+      "path": "midi/z4102-uk-grime-bass-hooks-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "d272b809224de29dd5bafa8bf25067696a3645e5edb22145552a1a9220fef532",
+      "errors": []
+    },
+    {
+      "path": "midi/z4102-uk-grime-bass-hooks-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5e6bf4be6b545c75c391e0ee4bd50d97dbb254dd91b6b9638653708e2596cfaa",
+      "errors": []
+    },
+    {
+      "path": "midi/z4102-uk-grime-bass-hooks-variation/z4102-uk-grime-bass-hooks-variation-combined.mid",
+      "bytes": 5673,
+      "sha256": "753a8afaa6f13394390a8e278aa664292363d78699ba96cb379035de1996dd4c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4103-uk-grime-bass-hooks-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "14e5d18c0667b59450b37f9e83111856d8070a677d711a21d845c792dd28ab93",
+      "errors": []
+    },
+    {
+      "path": "midi/z4103-uk-grime-bass-hooks-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "713162d530fed24d5d92da1109bd5709e5ba69afb8912daae73bcf5aacd8bbe8",
+      "errors": []
+    },
+    {
+      "path": "midi/z4103-uk-grime-bass-hooks-contrast/drums.mid",
+      "bytes": 2641,
+      "sha256": "2a977671128f82fd4c433107ebf4a5515938c4262a7ad413039ee90df2396e82",
+      "errors": []
+    },
+    {
+      "path": "midi/z4103-uk-grime-bass-hooks-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "4a44505e7ec32a95af42f63b536387bce67f003ba0c820b60262c4f2b21dc207",
+      "errors": []
+    },
+    {
+      "path": "midi/z4103-uk-grime-bass-hooks-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "16af1e5f165799cfce8ecaf5519307c9f320a70d8ef65d4e77741b832df36d9e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4103-uk-grime-bass-hooks-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "df6b470854864aee9d4925d784a2095858168e0e0d971717124d23e595aa66ba",
+      "errors": []
+    },
+    {
+      "path": "midi/z4103-uk-grime-bass-hooks-contrast/z4103-uk-grime-bass-hooks-contrast-combined.mid",
+      "bytes": 5641,
+      "sha256": "feaac8e51d5fccd33f5e2abb8da042523b4f913d928bd0331263689af02bbeba",
+      "errors": []
+    },
+    {
+      "path": "midi/z4104-uk-grime-bass-hooks-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "2d50be3842e4a3b04891e56258a8101855a8a6648538f6e91d29859780f609e4",
+      "errors": []
+    },
+    {
+      "path": "midi/z4104-uk-grime-bass-hooks-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b88c0f3e4309309b03181500f1d44cd6fed8fed3defba55cd6db6b14dbd88688",
+      "errors": []
+    },
+    {
+      "path": "midi/z4104-uk-grime-bass-hooks-return/drums.mid",
+      "bytes": 2641,
+      "sha256": "2a977671128f82fd4c433107ebf4a5515938c4262a7ad413039ee90df2396e82",
+      "errors": []
+    },
+    {
+      "path": "midi/z4104-uk-grime-bass-hooks-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "4a3e81fdd9632f610f0916151628a2943885a7815dfbc01740567f367187f58c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4104-uk-grime-bass-hooks-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "522d45dc501ec6947b63609ebdeaad6cb3e452aa46ca41853a2eb5ba2f4284f0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4104-uk-grime-bass-hooks-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "49056056b24ae335b5a6a369818ea87f836199c1ea9f1f68eaacca8d64145b95",
+      "errors": []
+    },
+    {
+      "path": "midi/z4104-uk-grime-bass-hooks-return/z4104-uk-grime-bass-hooks-return-combined.mid",
+      "bytes": 5641,
+      "sha256": "0ade3782c4c9b9ae2d0079f4e17f7136214481e38bdd6a45a276d5b611682941",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "UK Grime Bass Hooks",
+  "study": "z4101",
+  "bpm": 140,
+  "source_audio": "preview/uk-grime-bass-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "a905b426fa6e9f55f0290deef4f39f8dfe9694644b40711532ad390d72d39810",
+  "source_midi": "midi/z4101-uk-grime-bass-hooks-opening/z4101-uk-grime-bass-hooks-opening-combined.mid",
+  "source_midi_sha256": "4fd1abb69630de430a6ecc0ca10d004e9ddadb8ddcc14c13a0efddb961dd0e11",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "2377d0127123c9fb211fa737c01c69f0363415fa0db557c14780973e5704e959",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "8e4e8383442010d5fcab55f124ce09e22c5beef50284c678c41ca6c2df5c4158",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "3ff226bbe5e5fb5a52701a3a21de3c569835cccfee176380ac04d12a23785e05",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

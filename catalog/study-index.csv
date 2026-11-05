@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+z4101,UK Grime Bass Hooks Opening,pack-local equal-tempered pitch collection,F,140,4/4,480,32,61440,midi/z4101-uk-grime-bass-hooks-opening/z4101-uk-grime-bass-hooks-opening-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z4102,UK Grime Bass Hooks Variation,pack-local equal-tempered pitch collection,G#,140,4/4,480,32,61440,midi/z4102-uk-grime-bass-hooks-variation/z4102-uk-grime-bass-hooks-variation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z4103,UK Grime Bass Hooks Contrast,pack-local equal-tempered pitch collection,B,140,4/4,480,32,61440,midi/z4103-uk-grime-bass-hooks-contrast/z4103-uk-grime-bass-hooks-contrast-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z4104,UK Grime Bass Hooks Return,pack-local equal-tempered pitch collection,F#,140,4/4,480,32,61440,midi/z4104-uk-grime-bass-hooks-return/z4104-uk-grime-bass-hooks-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
