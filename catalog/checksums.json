@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/uk-grime-bass-hooks-midi.zip",
-      "bytes": 31363,
-      "sha256": "05fa36afe756ef7562fa8e265b087dc2fe855b18f37ad253ac9c95758dc9d897"
+      "bytes": 32350,
+      "sha256": "49a3c8ec12294c2bfef83e90b9849a795e7c3961ae0bd9798f8a2a7632b312d6"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9900,
-      "sha256": "7d4ee776af325472aa724cade5406532d25eee6aa42bfaa8c6ddcfc4b0164218"
+      "bytes": 10090,
+      "sha256": "cb08d43ce63bb373d031043da8758cd693707320c471cc930aa908d3ebbf7d61"
     },
     {
       "path": "midi/z4101-uk-grime-bass-hooks-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "0ade3782c4c9b9ae2d0079f4e17f7136214481e38bdd6a45a276d5b611682941"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1166,
       "sha256": "e8b75399bb65958a640407e5d59b2cfb4f2bab99db4ef3b12e9cd3a8564345d4"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3954,
-      "sha256": "2e495361dbe154fffcc85c12d700bd6d0064f239b54b5627485c6590bcd925d9"
+      "bytes": 4069,
+      "sha256": "cbf2333943e89117c2c8ac0dfec7a3853fc3dd9d2fc6a2c3d044207a970883ac"
     },
     {
       "path": "social/instagram/caption.txt",
